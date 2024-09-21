@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+
+add_single_file_module(01_alternating)
+add_single_file_module(02_brackets)
+add_single_file_module(03_minmax)
+add_single_file_module(04_circle)

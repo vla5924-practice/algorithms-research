@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.16)
+
+add_single_file_module(01_window)
+add_single_file_module(02_football)
+add_single_file_module(03_merging)
+add_single_file_module(04_postman)
+add_single_file_module(05_alibaba)
